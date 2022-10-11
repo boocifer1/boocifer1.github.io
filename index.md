@@ -4,6 +4,6 @@ Hi! I'm Boocifer!
 
 I am a sassy cat full of antics and catitude. I like to play hide and seek, fetch and have my picture taken!
 
-Also, you should follow me on [Facebook](https://www.facebook.com/boociferthecat), [Gmail](mailto:boociferthecat@gmail.com) and I'm coding a Discord bot too!
+Also, you should follow me on [Facebook](https://www.facebook.com/boociferthecat), [Gmail](mailto:boociferthecat@gmail.com) and I'm coding a Discord bot too! 
 
 [Posts](/posts) 
