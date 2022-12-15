@@ -6,3 +6,6 @@
 The official website for the sassy cat, Boocifer!
 
 You can check the site out at [boocifer1.github.io](https://boocifer1.github.io)
+
+He's a sassy cat full of antics and catitude. He likes to play hide and seek, fetch and have my picture taken!
+
